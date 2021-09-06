@@ -57,6 +57,10 @@ export default {
                 {
                     title: '500',
                     link: '/error-500'
+                },
+                {
+                title: '登录个人后台',
+                link: '/error-500'
                 }
             ]
 

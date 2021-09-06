@@ -15,11 +15,11 @@
                     <li style="color: #FF8724;">
                         <span style="float:left;margin-right: 8px;"><i class="el-icon-location-outline"></i></span>
                         <div style="display: inline-block;">
-                            银川市金凤区悦海新天地<br>14号办公楼1605-1607号
+                            阜城县崔庙镇<br>正大文化中心对面
                         </div>
                     </li>
-                    <li style="color: #67C23A;"><i class="el-icon-phone"></i>服务热线：400-878 6678</li>
-                    <li style="color: #009688;"><i class="el-icon-printer"></i>传真：0756-3629670</li>
+                    <li style="color: #67C23A;"><i class="el-icon-phone"></i>服务热线：17319271389</li>
+                    <li style="color: #009688;"><i class="el-icon-printer"></i>传真：17319271389</li>
                 </ul>
             </div>
             <div class="foot-right">
@@ -33,8 +33,8 @@
             </div>
         </div>
         <div class="foot-bottom">
-            <div>© Copyrights 2018 宁夏节能投资有限公司. All rights reserved </div>
-            <div>宁ICP备19000065号</div>
+            <div>© Copyrights 2021 圣航科技有限公司. All rights reserved </div>
+            <div>冀ICP备19xxxxxx号</div>
         </div>
     </footer>
 </template>

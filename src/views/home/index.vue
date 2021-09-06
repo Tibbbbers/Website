@@ -56,7 +56,7 @@ export default {
             slider_index: 0,
             sliderList: [
                 {
-                    title: '加盟宁夏节能，开启财富之门',
+                    title: '加盟圣航科技，开启财富之门',
                     abstract: '诚邀您的加盟',
                     img: 'slider01.jpg',
                     link: ''
@@ -232,7 +232,7 @@ export default {
                 left: 0;
                 background-color: #D6D6D6;
             }
-            
+
         }
     }
     .home-service {
